@@ -15,27 +15,21 @@ The data used for this analysis was sourced from the Citi Bike program's histori
 - I created a dynamic map in Tableau that visualized the popularity of stations over time.
 - Zip code data was overlaid on the map to provide additional geographical context.
 
-### Key Findings
-- The map analysis revealed significant variations in station popularity across different neighborhoods and boroughs of NYC.
-- Several stations experienced fluctuations in popularity over the year, indicating the influence of seasonal factors.
-
 ## Membership Analysis
 
 ### Methodology
 - For the membership analysis, I focused on tracking the growth of Citi Bike memberships over the year.
-- I calculated the percentage of members versus casual riders. 
+- I calculated the percentage of members versus casual riders.
+- Analyzed the top 5 stations to see which ones had more members versus casual riders. 
 
 
 ## Rider Type Analysis
+- Analyzed whether users used electric, docked, or classic bikes. 
 
 ### Methodology
 - The rider type analysis aimed to understand how the proportions of short-term customers and annual subscribers changed.
 - I examined the user type data, categorizing riders into short-term customers and annual subscribers.
 - I calculated the changes in proportions over time.
-
-### Key Findings
-- The analysis revealed that the proportion of annual subscribers increased by X%, while short-term customers decreased by Y%.
-- This suggests a shift towards more long-term engagement with the Citi Bike program.
 
 ## Top 15 Stations Analysis
 
@@ -43,10 +37,7 @@ The data used for this analysis was sourced from the Citi Bike program's histori
 - To identify the top 15 stations, I analyzed the data on starting and ending stations for each trip.
 - I counted the frequency of each station and ranked them accordingly.
 
-### Key Findings
-- The top 15 stations were identified based on the frequency of usage.
-- Stations located near transportation hubs, parks, and tourist attractions dominated the list.
-- This information can be used to optimize bike allocation and station maintenance.
+
 
 ## Conclusion
 
