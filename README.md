@@ -15,6 +15,10 @@ The data used for this analysis was sourced from the Citi Bike program's histori
 - I created a dynamic map in Tableau that visualized the popularity of stations over time.
 - Zip code data was overlaid on the map to provide additional geographical context.
 
+### Key Findings
+- The map analysis revealed significant variations in station popularity across different neighborhoods and boroughs of NYC.
+- Several stations experienced fluctuations in popularity over the year, indicating the influence of seasonal factors.
+
 ## Membership Analysis
 
 ### Methodology
@@ -25,11 +29,6 @@ The data used for this analysis was sourced from the Citi Bike program's histori
 
 ## Rider Type Analysis
 - Analyzed whether users used electric, docked, or classic bikes. 
-
-### Methodology
-- The rider type analysis aimed to understand how the proportions of short-term customers and annual subscribers changed.
-- I examined the user type data, categorizing riders into short-term customers and annual subscribers.
-- I calculated the changes in proportions over time.
 
 ## Top 15 Stations Analysis
 
