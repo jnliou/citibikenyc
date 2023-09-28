@@ -23,7 +23,7 @@ https://citibikenyc.com/system-data
 ![Membership](photos/membership.png)
 
 ### Methodology
-- For the membership analysis, I focused on tracking the growth of Citi Bike memberships over the year comparing casual riders versus those with a membeership.
+- For the membership analysis, I focused on tracking the growth of Citi Bike memberships over the year comparing casual riders versus those with a membership.
 - I calculated the percentage of members versus casual riders.
 - Analyzed the top 5 stations to see which ones had more members versus casual riders. 
 - Looked how the average duration of rides for members versus casual riders. 
