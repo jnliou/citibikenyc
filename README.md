@@ -4,6 +4,8 @@
 ![NYC](photos/nycphoto.jpg)
 This ReadMe documents the analysis of the New York Citi Bike project data spanning from July 2022 to July 2023. The analysis includes a map analysis, membership analysis, rider type analysis, and the identification of the top 15 bike stations.
 
+View Tableau Dashboard website here: https://jnliou.github.io/citibikenyc/ 
+
 ## Data Sources
 
 The data used for this analysis was sourced from the Citi Bike program's historical trip data records for the specified time frame.
